@@ -1,0 +1,62 @@
+<style>
+body  {
+    background-image: url("http://static.independent.co.uk/s3fs-public/thumbnails/image/2016/04/29/10/drake-new-album-views.jpg");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size:100%;
+</style>
+
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#000000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#000000;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="http://127.0.0.1:5000"><img src="https://i1.sndcdn.com/avatars-000111004820-tzrvo1-t500x500.jpg" alt="OVO homepage" style="width:42px;height:42px;border:0;">
+</a></a></li>
+</ul>
+<br><br><br>
+
+
+		{% for category in categories %}	
+            {% if id == category.id %}
+  <tr>
+    <center><table><col width="500"
+		    <p><b><font size="6"><font color="white">Category:</b><font size="6"><font color="gold"> {{category.id}}</p>
+                <p><b><font size="6"><font color="white">Category:</b><font size="6"><font color="gold"> {{category.name}}</p>
+</td>
+            
+
+		</tr>
+            {%endif %}
+		{%endfor %}
+</body>
+</html>
+

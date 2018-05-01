@@ -1,0 +1,72 @@
+<style>
+body  {
+    background-image: url("http://cdn.paper4pc.com/images/black-car-wallpaper-5.jpg");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size:100%;
+</style>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#000000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#000000;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="http://127.0.0.1:5000"><img src="https://i1.sndcdn.com/avatars-000111004820-tzrvo1-t500x500.jpg" alt="OVO homepage" style="width:42px;height:42px;border:0;">
+</a></a></li>
+</ul>
+		{% for product in products %}	<!-- that is how you call py commands on html file -->
+            {% if id == product.id %}
+  <tr>
+    <center><table><col width="500">
+            <td><img src="{{product.image}}" style="width:500px;height:326px"></td>
+            <p><b><font color="white">Car ID:</b><font color="blue"> {{product.id}}</p>
+		    <p><b><font color="white">Car Model:</b><font color="red"> {{product.name}}</p>
+		    <p><b><font color="white">Horsepower:</b><font color="white"> {{product.horsepower}}</p>
+		    <p><b><font color="white">Price:</b><font color="white"> {{product.price}}</p>
+		    <p><b><font color="white">Rating:</b><font color="white"> {{product.rating}}</p>
+                <p><b><font color="white">MPG(miles per gallon):</b><font color="green"> {{product.mpg}}</p>
+               <p><b><font color="white">Manufacturer:</b><font color="white"> {{product.manufacturer}}</p>
+               <p><b><font color="white">Founded:</b><font color="white"> {{product.founded}}</p>
+               <p><b><font color="white">Origin:</b><font color="white"> {{product.origin}}<p>
+               <p><b><font color="white">Category:</b><font color="white">{{product.category.name}}</p>
+
+</td>
+
+            
+
+		</tr>
+            {%endif %}
+		{%endfor %}
+    
+
+</body>
+</html>
+
+
