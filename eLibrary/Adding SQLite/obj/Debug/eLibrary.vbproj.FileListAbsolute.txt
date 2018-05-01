@@ -1,0 +1,66 @@
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\eLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.LoginForm.resources
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.SearchForm.resources
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\eLibrary.vbproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.AccountOverview.resources
+C:\Users\Andy\Desktop\College Stuff\BUS110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\College Stuff\BUS110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\College Stuff\BUS110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\College Stuff\BUS110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\eLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.AccountOverview.resources
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.LoginForm.resources
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.SearchForm.resources
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\eLibrary.vbproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.pdb
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.exe
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.pdb
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\Adding SQLite.xml
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\eLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.AccountOverview.resources
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.LoginForm.resources
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding_SQLite.SearchForm.resources
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\eLibrary.vbproj.GenerateResource.Cache
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Google Drive\College Stuff\BUS 110A\eLibrary (110-A)\eLibrary Project\Adding SQLite\obj\Debug\Adding SQLite.pdb

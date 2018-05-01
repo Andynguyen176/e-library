@@ -1,0 +1,62 @@
+C:\Users\005830370\Desktop\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.exe
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.pdb
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.xml
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.vbprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding_SQLite.Form1.resources
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.vbproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Student\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding_SQLite.Form1.resources
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+C:\Users\Andy\Desktop\Adding SQLite\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.vbproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding_SQLite.Form1.resources
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.vbproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.pdb

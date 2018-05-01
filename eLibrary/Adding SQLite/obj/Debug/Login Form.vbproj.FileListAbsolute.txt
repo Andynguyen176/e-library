@@ -1,0 +1,90 @@
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Adding SQLite\Adding SQLite\obj\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\Login Form\Login Form\Login\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\Login Form\Login Form\Login\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Login Form\Login Form\Login\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Login Form\Login\obj\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.pdb
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.exe
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.xml
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.pdb
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Login Form.vbprojResolveAssemblyReference.cache
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.LoginForm.resources
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Login Form.vbproj.GenerateResource.Cache
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.pdb
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.xml
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.dll
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.xml
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.exe
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.xml
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.pdb
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.pdb
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.xml
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Login Form.vbprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.LoginForm.resources
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+C:\Users\Student\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Login Form.vbproj.GenerateResource.Cache
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe.config
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.exe
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.xml
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding SQLite.pdb
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.pdb
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.xml
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.dll
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.xml
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Login Form.vbprojResolveAssemblyReference.cache
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.LoginForm.resources
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Login Form.vbproj.GenerateResource.Cache
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.SearchForm.resources
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.exe
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.pdb
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\Adding SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Login Form.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.LoginForm.resources
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.Resources.resources
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.SearchForm.resources
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Login Form.vbproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.AccountOverview.resources
+E:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.AccountOverview.resources
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.AccountOverview.resources
+F:\BUS-110A\Login Form\Login Form\Adding SQLite\obj\Debug\Adding_SQLite.SearchForm.resources
